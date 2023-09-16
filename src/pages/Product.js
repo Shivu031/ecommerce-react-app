@@ -123,7 +123,7 @@ const Product = () => {
         <Announcement/>
         <Wrapper>
             <ImgContainer>
-                <Image src="top.jpg"/>
+                <Image src="../top.jpg"/>
             </ImgContainer>
             <InfoContainer>
                 <Title>Top</Title>
